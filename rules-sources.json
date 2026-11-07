@@ -3,148 +3,144 @@
   "files": [
     {
       "source": "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/AI.list",
-      "file": "rules/liandu2024/clash/list/AI.list",
+      "file": "rule-set/AI.list",
       "sha256": "b9c61b1809e53cfaa96fcd460e4932f9a7b0f5db76027792deb67e94b229b24f"
     },
     {
       "source": "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/AI2.list",
-      "file": "rules/liandu2024/clash/list/AI2.list",
+      "file": "rule-set/AI2.list",
       "sha256": "4154bfabd22f7ef260a7751294d6ed03c37112e53cd270c24aeaebd6db01cdc7"
     },
     {
       "source": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/GitHub/GitHub.list",
-      "file": "rules/blackmatrix7/ios_rule_script/rule/Clash/GitHub/GitHub.list",
+      "file": "rule-set/GitHub.list",
       "sha256": "ced8ab0ecda5775d04ec8ee6a57b282181108565331a6a1d85e9a26fee25d79b"
     },
     {
       "source": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/TikTok/TikTok.list",
-      "file": "rules/blackmatrix7/ios_rule_script/rule/Clash/TikTok/TikTok.list",
+      "file": "rule-set/TikTok.list",
       "sha256": "ddf8e51eadb481849cd8146e7f1b55143c5bac1d3399f706445d5996c613085f"
     },
     {
       "source": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.list",
-      "file": "rules/blackmatrix7/ios_rule_script/rule/Clash/Telegram/Telegram.list",
+      "file": "rule-set/Telegram.list",
       "sha256": "0e99a027795b51c495e3bd97c854b147898c5e598ece47bd79515a419aab25e1"
     },
     {
       "source": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitter/Twitter.list",
-      "file": "rules/blackmatrix7/ios_rule_script/rule/Clash/Twitter/Twitter.list",
+      "file": "rule-set/Twitter.list",
       "sha256": "64c836f2431ca0d4728cc545bb74280ee50c886e346040012e6cdd2f3eee3f97"
     },
     {
       "source": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Facebook/Facebook.list",
-      "file": "rules/blackmatrix7/ios_rule_script/rule/Clash/Facebook/Facebook.list",
+      "file": "rule-set/Facebook.list",
       "sha256": "747563c96825bbd5f868be955543b0ca1979064e7b094f8aab08aafbce577c36"
     },
     {
       "source": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Amazon/Amazon.list",
-      "file": "rules/blackmatrix7/ios_rule_script/rule/Clash/Amazon/Amazon.list",
+      "file": "rule-set/Amazon.list",
       "sha256": "7a025b3f8a88dfe9fe5157398c637edf2372f24c28d72871845b0651419847ff"
     },
     {
       "source": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.list",
-      "file": "rules/blackmatrix7/ios_rule_script/rule/Clash/Apple/Apple.list",
+      "file": "rule-set/Apple.list",
       "sha256": "23ffd05d669e6281e387aff5453ba3ab0d83321a00c6eb1b8045e866bc66d7b1"
     },
     {
       "source": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.list",
-      "file": "rules/blackmatrix7/ios_rule_script/rule/Clash/Microsoft/Microsoft.list",
+      "file": "rule-set/Microsoft.list",
       "sha256": "241e998fe692f1ad0cec29b66b95769bee656f4beb3b5ccd47f15b8e8935d5dc"
     },
     {
       "source": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.list",
-      "file": "rules/blackmatrix7/ios_rule_script/rule/Clash/Steam/Steam.list",
+      "file": "rule-set/Steam.list",
       "sha256": "290ebccc4be56defc7d36f85d8c9777101548a4f2147ca29fe50b794c6a8dec7"
     },
     {
       "source": "https://raw.githubusercontent.com/andyliukun/ACL4SSR/refs/heads/master/Clash/Ruleset/Steam.list",
-      "file": "rules/andyliukun/ACL4SSR/Clash/Ruleset/Steam.list",
+      "file": "rule-set/Steam.list",
       "sha256": "0abad0ae490ec9b7bf0cf880f83c5229949b14cc5df448c00a0516225a16b011"
     },
     {
       "source": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Epic/Epic.list",
-      "file": "rules/blackmatrix7/ios_rule_script/rule/Clash/Epic/Epic.list",
+      "file": "rule-set/Epic.list",
       "sha256": "8f5fcadadd967023aa81273803de80beb2ceadd9af4e9352b565b3b00ccf464d"
     },
     {
       "source": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EA/EA.list",
-      "file": "rules/blackmatrix7/ios_rule_script/rule/Clash/EA/EA.list",
+      "file": "rule-set/EA.list",
       "sha256": "83cd3c809f0cb781c695f6753246968a88178a375a74561a6b21e5752a74f960"
     },
     {
       "source": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Blizzard/Blizzard.list",
-      "file": "rules/blackmatrix7/ios_rule_script/rule/Clash/Blizzard/Blizzard.list",
+      "file": "rule-set/Blizzard.list",
       "sha256": "0ccab4f1bb94504abc671f4c901cbccf3a8e4f871c1f8d30b785c87c7a58b446"
     },
     {
       "source": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/UBI/UBI.list",
-      "file": "rules/blackmatrix7/ios_rule_script/rule/Clash/UBI/UBI.list",
+      "file": "rule-set/UBI.list",
       "sha256": "b6a5607200a67a6f581bd2ba6ee41b836d66f3d965db6e6fa50361304a041295"
     },
     {
       "source": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Sony/Sony.list",
-      "file": "rules/blackmatrix7/ios_rule_script/rule/Clash/Sony/Sony.list",
+      "file": "rule-set/Sony.list",
       "sha256": "c3c96668d832b2b4e94ab185c14e2931d6af99d5a106bb658b0d83160fc9a19f"
     },
     {
       "source": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Nintendo/Nintendo.list",
-      "file": "rules/blackmatrix7/ios_rule_script/rule/Clash/Nintendo/Nintendo.list",
+      "file": "rule-set/Nintendo.list",
       "sha256": "ca3cf3ea5051ed220c255fbccbdd93e477f1c558e26ada6bf3dbcc2ba0487da2"
     },
     {
       "source": "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/YouTube.list",
-      "file": "rules/liandu2024/clash/list/YouTube.list",
+      "file": "rule-set/YouTube.list",
       "sha256": "1649ffb28448c48559095bf492ec88db41d3f70d03b9012023469fe1b6a755f2"
     },
     {
       "source": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.list",
-      "file": "rules/blackmatrix7/ios_rule_script/rule/Clash/YouTube/YouTube.list",
+      "file": "rule-set/YouTube.list",
       "sha256": "a8e4819c3ee2ba71c06873769310ec012a3aa2e8fc54843168ae6edef6e75280"
     },
     {
       "source": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Disney/Disney.list",
-      "file": "rules/blackmatrix7/ios_rule_script/rule/Clash/Disney/Disney.list",
+      "file": "rule-set/Disney.list",
       "sha256": "8ac935cbe8c975ce285879c098859b93badf309c0d321a55291f486c54820f9e"
     },
     {
       "source": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix.list",
-      "file": "rules/blackmatrix7/ios_rule_script/rule/Clash/Netflix/Netflix.list",
+      "file": "rule-set/Netflix.list",
       "sha256": "9ceac35682ac97d17223d90e08c4e56b52c072b1698d746a2d22444110318b57"
     },
     {
       "source": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/HBO/HBO.list",
-      "file": "rules/blackmatrix7/ios_rule_script/rule/Clash/HBO/HBO.list",
+      "file": "rule-set/HBO.list",
       "sha256": "74bf275159bfe78198aab5be922348893d8623f4d3531c039eefb898b0b9163a"
     },
     {
       "source": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.list",
-      "file": "rules/blackmatrix7/ios_rule_script/rule/Clash/Spotify/Spotify.list",
+      "file": "rule-set/Spotify.list",
       "sha256": "0832138646a9425340a62743e0a1f847f681b571b1d28d07372a97dd6fd46efd"
     },
     {
       "source": "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Check.list",
-      "file": "rules/liandu2024/clash/list/Check.list",
+      "file": "rule-set/Check.list",
       "sha256": "19c9272be350f34fa3267f9fa048d012147e4689724c7dcda04a127588053b90"
     },
     {
       "source": "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Proxy.list",
-      "file": "rules/liandu2024/clash/list/Proxy.list",
+      "file": "rule-set/Proxy.list",
       "sha256": "8ba2b0bf760e795b4721a85cab160875691ed15de6b2b69ad4543bad5546d708"
     },
     {
       "source": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global.list",
-      "file": "rules/blackmatrix7/ios_rule_script/rule/Clash/Global/Global.list",
+      "file": "rule-set/Global.list",
       "sha256": "6dbfdc19293753fbe874dea6dec0f2a46427d6fe4e98e644854daa0180ced3ba"
     },
     {
-      "source": "https://raw.githubusercontent.com/andyliukun/ios_rule_script/refs/heads/master/rule/Clash/Global/Global.list",
-      "file": "rules/andyliukun/ios_rule_script/rule/Clash/Global/Global.list",
-      "sha256": "9728f5f86cf9144fc76ce3c0837b9f1f4b9fe4b592ce468f2790040205fc4214"
-    },
-    {
       "source": "https://raw.githubusercontent.com/andyliukun/ACL4SSR/master/Clash/my.list",
-      "file": "rules/andyliukun/ACL4SSR/Clash/my.list",
+      "file": "rule-set/my.list",
       "sha256": "be4cd67f51ec16c62770a0118d8853b3bd2aa588dfe61fc378d35736ba6df175"
     }
-  ]
+  ],
+  "checksum_note": "sha256 records the original upstream snapshot, not the current local file; Steam and YouTube each merge multiple sources."
 }

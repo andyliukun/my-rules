@@ -1,6 +1,6 @@
 # NAME: YouTube (merged)
-# SOURCE: rules/liandu2024/clash/list/YouTube.list
-# SOURCE: rules/blackmatrix7/ios_rule_script/rule/Clash/YouTube/YouTube.list
+# SOURCE: https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/YouTube.list
+# SOURCE: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.list
 # Exact duplicate rules removed; original rule order retained.
 # TOTAL: 184
 IP-CIDR,199.16.158.0/24,no-resolve
