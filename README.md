@@ -21,3 +21,7 @@ https://raw.githubusercontent.com/andyliukun/my-rules/refs/heads/main/Clash-Full
 已删除未使用的备用 Global 注释引用。节点测速使用的 `www.gstatic.com` 地址用于连通性检测，保持原样。
 
 无需安装依赖或启动服务。
+
+## Steam 下载分流
+
+`SteamCN.list` 中列出的国内下载 CDN 优先直连，商店和社区继续使用 `🎮 Steam` 策略组（默认美国自动）。请勿将整个 `steampowered.com` 设为直连。未列入的下载 CDN 仍按后续规则处理；实际使用的 CDN 由 Steam 分配。

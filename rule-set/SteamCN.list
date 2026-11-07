@@ -1,0 +1,13 @@
+# NAME: Steam domestic download CDN
+# Selected download domains from Steam.list; keep before the general Steam ruleset.
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script
+# TOTAL: 9
+DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
+DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
+DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
+DOMAIN-SUFFIX,dl.steam.clngaa.com
+DOMAIN-SUFFIX,dl.steam.ksyna.com
+DOMAIN-SUFFIX,st.dl.bscstorage.net
+DOMAIN-SUFFIX,st.dl.eccdnx.com
+DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+DOMAIN-SUFFIX,steamcontent.tnkjmec.com
