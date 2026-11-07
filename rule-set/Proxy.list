@@ -45,7 +45,6 @@ IP-CIDR,188.191.197.0/24,no-resolve
 IP-CIDR,31.13.75.0/24,no-resolve 
 IP-CIDR,62.181.50.0/24,no-resolve 
 IP-CIDR,90.21.198.0/24,no-resolve 
-IP-CIDR,90.21.198.0/24,no-resolve 
 IP-CIDR,109.198.201.0/24,no-resolve 
 IP-CIDR,176.211.207.0/24,no-resolve 
 IP-CIDR,178.185.59.0/24,no-resolve 
@@ -53,18 +52,14 @@ IP-CIDR,94.241.215.0/24,no-resolve
 IP-CIDR,211.179.102.0/24,no-resolve 
 IP-CIDR,84.3.176.0/24,no-resolve 
 IP-CIDR,5.28.195.0/24,no-resolve 
-IP-CIDR,62.181.50.0/24,no-resolve 
 IP-CIDR,185.65.134.0/24,no-resolve 
 IP-CIDR,189.79.31.0/24,no-resolve 
 IP-CIDR,89.222.178.0/24,no-resolve 
-IP-CIDR,94.241.215.0/24,no-resolve 
 IP-CIDR,49.205.113.0/24,no-resolve 
 IP-CIDR,96.231.131.0/24,no-resolve 
 IP-CIDR,92.245.43.0/24,no-resolve 
-IP-CIDR,189.79.31.0/24,no-resolve 
 IP-CIDR,37.214.31.0/24,no-resolve 
 IP-CIDR,172.219.73.0/24,no-resolve 
-IP-CIDR,49.205.113.0/24,no-resolve 
 IP-CIDR,180.70.58.0/24,no-resolve 
 IP-CIDR,95.25.159.0/24,no-resolve 
 IP-CIDR,135.135.92.0/24,no-resolve 
@@ -178,11 +173,9 @@ DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,dot.sb
 DOMAIN-SUFFIX,dns.umbrella.com
 DOMAIN-SUFFIX,dns.quad9.net
-DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,doh.dns.sb
 DOMAIN-SUFFIX,doh.opendns.com
-DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 # 其他网站
@@ -206,7 +199,6 @@ DOMAIN-SUFFIX,itzmx.com
 DOMAIN-SUFFIX,iriseden.eu
 DOMAIN-SUFFIX,shittyurl.org
 DOMAIN-SUFFIX,i2p.rocks
-DOMAIN-SUFFIX,shittyurl.org
 DOMAIN-SUFFIX,filetracker.xyz
 DOMAIN-SUFFIX,altrosky.nl
 DOMAIN-SUFFIX,leech.ie
@@ -290,9 +282,7 @@ DOMAIN-SUFFIX,bitwayeat.com
 DOMAIN-SUFFIX,etcbbi.xyz
 DOMAIN-SUFFIX,etcbbf.xyz
 DOMAIN-SUFFIX,etcbbj.xyz
-DOMAIN-SUFFIX,etcbbi.xyz
 DOMAIN-SUFFIX,etcbbh.xyz
-DOMAIN-SUFFIX,etcbbf.xyz
 DOMAIN-SUFFIX,etcbbg.xyz
 DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,pipecdn.vip
@@ -314,7 +304,6 @@ DOMAIN-SUFFIX,tfboyaae.com
 DOMAIN-SUFFIX,tfboyaad.com
 
 DOMAIN-SUFFIX,polivera.ai
-DOMAIN-SUFFIX,asiassn.com
 DOMAIN-SUFFIX,mmcks.top
 DOMAIN-SUFFIX,needay.xyz
 DOMAIN-SUFFIX,mzzxuh.com
