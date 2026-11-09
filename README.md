@@ -24,6 +24,6 @@ https://raw.githubusercontent.com/andyliukun/my-rules/refs/heads/main/Clash-Full
 
 ## Steam 下载分流
 
-`SteamCN.list` 中列出的国内下载 CDN 优先直连，商店和社区使用 `🛒 Steam商店` 策略组，其他已匹配的 Steam 流量使用 `🎮 Steam游戏` 策略组（均默认节点选择，可分别选择具体节点或直连）。请勿将整个 `steampowered.com` 设为直连。未列入的下载 CDN 仍按后续规则处理；实际使用的 CDN 由 Steam 分配。
+`Steam下载.list` 中列出的国内下载 CDN 优先直连，商店和社区使用 `🛒 Steam商店` 策略组，其他已匹配的 Steam 流量使用 `🎮 Steam游戏` 策略组（均默认节点选择，可分别选择具体节点或直连）。请勿将整个 `steampowered.com` 设为直连。未列入的下载 CDN 仍按后续规则处理；实际使用的 CDN 由 Steam 分配。
 
 `SteamStore.list` 在通用 Steam 规则前匹配商店、结账、帮助、Web API、社区及常用静态资源。该分流基于域名，无法严格按客户端功能区分共享域名上的每个请求；未单独列出的服务按后续规则处理。
