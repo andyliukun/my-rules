@@ -1,0 +1,12 @@
+# NAME: Steam store and community
+# Match before Steam.list; game services and download CDNs use later rules.
+# TOTAL: 9
+DOMAIN,store.steampowered.com
+DOMAIN,checkout.steampowered.com
+DOMAIN,help.steampowered.com
+DOMAIN,api.steampowered.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamstore-a.akamaihd.net
+DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
+DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
